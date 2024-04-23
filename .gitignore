@@ -1,0 +1,4 @@
+scraped/
+.venv/
+.ipynb_checkpoints/
+.idea/
